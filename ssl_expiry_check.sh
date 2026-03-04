@@ -1,14 +1,14 @@
 #!/bin/bash
 
 # ---------------- CONFIG ----------------
-EMAIL_TO="admin@openinfrasystems.com,chandranjoy@gmail.com"
-EMAIL_FROM="info@openinfrasystems.com"
+EMAIL_TO="mon@domain.com"
+EMAIL_FROM="mon@domain.com"
 ALERT_DAYS=10
 LOG_FILE="/var/log/ssl_expiry_check.log"
 
 WEBSITES=(
-  "openinfrasystems.com"
-  "google.co.in"
+  "domain.com"
+  "domain.co.in"
 )
 # ----------------------------------------
 
